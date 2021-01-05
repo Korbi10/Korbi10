@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Korbi10's github stats](https://github-readme-stats.vercel.app/api?username=korbi10)](https://github.com/korbi10/github-readme-stats)
 
 <!--
 **Korbi10/Korbi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
