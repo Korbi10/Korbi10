@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Korbi10's github stats](https://github-readme-stats.vercel.app/api?username=korbi10&count_private=true&theme=dark)](https://github.com/korbi10/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=korbi10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=korbi10&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Korbi10/Korbi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
